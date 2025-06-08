@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: navy;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width:1000px;
+	background-color: azure;
+	padding: 20px;
+}
+
+.novi_blok{
+	background-color: aliceblue;
+	padding: 20px;
+	margin: 20px;
+	width: 1020px;
+}
+h1, h2, h3 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: darkmagenta;
+}
+
+span {color: #EC8AD9;}
+body {
+	background-image: url("fotke/wp4892354.jpg");
+}
+
+a: link { 
+    color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #FFC2FC;
+}
+a:hover{
+	background-color: aliceblue;
+}
+img { 
+	height: 200px
+}
